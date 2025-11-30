@@ -13,9 +13,13 @@ Users can upload any image, and the app intelligently inspects it to generate me
 Tech Stack
 
  Backend | Python, Flask 
+ 
  AI  | OpenRouter (Grok / Gemini / Vision models) 
+ 
  Image Processing | Pillow 
+ 
  Frontend | HTML, CSS, JavaScript 
+ 
  Architecture | REST API + Multimodal Prompt Engineering 
 
 How It Works
