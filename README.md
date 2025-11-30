@@ -79,11 +79,3 @@ Perfect for portfolio, internship and job applications.
 Ganesh Patidar
 AI & Full Stack Developer
 🔗 GitHub • LinkedIn — https://www.linkedin.com/in/ganeshpatidarcse/
-
-If you want, I can now:
-
-- Add **GitHub tags** (like `#AI #Flask #OpenRouter #VisionAI`)
-- Add **project description for resume**
-- Help you **deploy the project online** so your README has a **Live Demo link**
-
-Just tell me what you want next 🚀
