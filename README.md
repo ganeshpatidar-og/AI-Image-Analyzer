@@ -78,6 +78,13 @@ Error handling and file processing
 Clean frontend + backend architecture
 Perfect for portfolio, internship and job applications.
 
+### 🐳 Docker Image
+[![Docker Pulls](https://img.shields.io/docker/pulls/ganeshpatidar/ai-image-analyzer)](https://hub.docker.com/r/ganeshpatidar/ai-image-analyzer)
+
+docker run -p 5000:5000 -e OPENROUTER_API_KEY=your_api_key ganeshpatidar/ai-image-analyzer:latest
+Then open in browser:
+    http://localhost:5000
+
 
 ⭐ Author
 Ganesh Patidar
